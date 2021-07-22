@@ -2,3 +2,6 @@ Shihtzu
 Golden Retriever
 Lab
 Husky
+Golden Doodle
+Poodle
+Snoodle
