@@ -2,3 +2,4 @@ persian
 maine coon
 siamese
 tabby
+calico
