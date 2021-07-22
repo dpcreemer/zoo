@@ -4,3 +4,4 @@ siamese
 tabby
 calico
 tiger
+russian blue
