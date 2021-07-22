@@ -5,3 +5,4 @@ tabby
 calico
 tiger
 russian blue
+burmese
