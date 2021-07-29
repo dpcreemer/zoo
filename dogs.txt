@@ -5,5 +5,3 @@ Husky
 Golden Doodle
 Poodle
 Snoodle
-German Shepard
-Bloodhound
