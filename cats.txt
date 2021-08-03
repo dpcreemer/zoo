@@ -1,10 +1,10 @@
 Persian
 Maine Coon
-siamese
-tabby
-calico
-russian blue
-burmese
+Siamese
+Tabby
+Calico
+Russian blue
+Burmese
 himalayan
 british longhair
 peterbald
