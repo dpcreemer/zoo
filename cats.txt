@@ -1,8 +1,10 @@
-persian
-maine coon
+Persian
+Maine Coon
 siamese
 tabby
 calico
-tiger
 russian blue
 burmese
+himalayan
+british longhair
+peterbald
